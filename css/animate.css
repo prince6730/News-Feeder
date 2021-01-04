@@ -1,0 +1,10 @@
+#details {
+    position: relative;
+    animation: mymove 2s; 
+    animation-direction: normal;
+}
+
+@keyframes mymove {
+  from {left: 0px;}
+  to {left: 40px;}
+}
